@@ -28,7 +28,6 @@ a{
 
 a:hover{
     text-decoration: underline;
-    transform: translate(-0px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.627);
-    transition: transform 0.5s;
+    background-color: rgb(109, 1, 1);
 }
